@@ -1,0 +1,22 @@
+{
+  "insurers": 5,
+  "valuation_dates": [
+    2007,
+    2008,
+    2009
+  ],
+  "backtest_cells": 294,
+  "performance": {
+    "bf": {
+      "cell_mae": 4379.242694336097,
+      "aggregate_bias": 0.08912660704353471
+    },
+    "cl": {
+      "cell_mae": 5896.132062637238,
+      "aggregate_bias": 0.1472525130063251
+    }
+  },
+  "maximum_package_difference": 0.0,
+  "assumed_bf_loss_ratio": 0.7,
+  "tail": "lag-10 terminal assumption for base; 1.02 and 1.05 sensitivity, not observed outcomes"
+}

@@ -1,0 +1,16 @@
+insurer,cutoff,own_cl_reserve,difference,package_cl_reserve,mack_standard_error,package
+43,2007,243900.97026156692,0.0,243900.97026156692,11742.331866324825,chainladder-python; volume-weighted development; no additional tail
+43,2008,114530.56687894926,0.0,114530.56687894926,6539.450733210703,chainladder-python; volume-weighted development; no additional tail
+43,2009,51736.47171130887,0.0,51736.47171130887,4157.218629125754,chainladder-python; volume-weighted development; no additional tail
+388,2007,171855.0933285464,0.0,171855.0933285464,11030.352796371366,chainladder-python; volume-weighted development; no additional tail
+388,2008,92271.33898504256,0.0,92271.33898504256,9194.483145930984,chainladder-python; volume-weighted development; no additional tail
+388,2009,41797.070197207155,0.0,41797.070197207155,5875.2543137657885,chainladder-python; volume-weighted development; no additional tail
+1090,2007,151742.21688460754,0.0,151742.21688460754,5949.929548345048,chainladder-python; volume-weighted development; no additional tail
+1090,2008,57423.64856367378,0.0,57423.64856367378,3247.0009886136168,chainladder-python; volume-weighted development; no additional tail
+1090,2009,22893.771452142188,0.0,22893.771452142188,2107.1031159394115,chainladder-python; volume-weighted development; no additional tail
+2003,2007,2836680.7382122977,0.0,2836680.7382122977,78533.84870950226,chainladder-python; volume-weighted development; no additional tail
+2003,2008,1437184.8563392295,0.0,1437184.8563392295,62757.051608453025,chainladder-python; volume-weighted development; no additional tail
+2003,2009,680271.18109525,0.0,680271.18109525,40302.15432492197,chainladder-python; volume-weighted development; no additional tail
+4839,2007,268805.8143316866,0.0,268805.8143316866,7991.566060702368,chainladder-python; volume-weighted development; no additional tail
+4839,2008,100714.80246967595,0.0,100714.80246967595,3779.2132567844033,chainladder-python; volume-weighted development; no additional tail
+4839,2009,42154.17449728912,0.0,42154.17449728912,2272.09331755582,chainladder-python; volume-weighted development; no additional tail

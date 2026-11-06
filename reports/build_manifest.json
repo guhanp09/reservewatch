@@ -1,0 +1,13 @@
+{
+  "generated_at_utc": "2026-11-06T09:30:00.624827+00:00",
+  "python": "3.12.7",
+  "platform": "macOS-26.3-arm64-arm-64bit",
+  "source_code_sha256": {
+    "src/reservewatch/__init__.py": "dcbe3c9b678e8df49aaa2addd4a45e7b368dfac069184e0b87c4e3fd613ce1a6",
+    "src/reservewatch/app.py": "e74d2096399b88b9335ac5d211178500aa78e47c50844b187db17f2c48a30153",
+    "src/reservewatch/cli.py": "96239ecbbe2a52330f3e5392ce0c09bf75197e273ee973ba0a7169a8426e4b81",
+    "src/reservewatch/core.py": "02f0ef8895d3a248cf46f8b6f3a738623e441687ac2c14dcab060b5ea7174c92",
+    "src/reservewatch/io.py": "663f4f0fd647f96163b1e8446ffc4fc9f39a69e543e110eff27537e66106acd6",
+    "src/reservewatch/pipeline.py": "58a0f9372bb36a46382bfae5952f1337dc0f22b120b63d067be347fb9a8e4aae"
+  }
+}

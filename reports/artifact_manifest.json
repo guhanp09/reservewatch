@@ -1,0 +1,84 @@
+{
+  "checks_passed": 15,
+  "checks": [
+    "All numerical metrics are finite",
+    "Generated results match the current analytical source files",
+    "PDF report has a valid document header",
+    "Analysis includes substantive methods and limitations",
+    "reserve_review.xlsx workbook structure",
+    "reserve_review.xlsx has no cached Excel errors in xl/worksheets/sheet1.xml",
+    "reserve_review.xlsx has no broken references in xl/worksheets/sheet1.xml",
+    "reserve_review.xlsx has no cached Excel errors in xl/worksheets/sheet2.xml",
+    "reserve_review.xlsx has no broken references in xl/worksheets/sheet2.xml",
+    "reserve_review.xlsx has no cached Excel errors in xl/worksheets/sheet3.xml",
+    "reserve_review.xlsx has no broken references in xl/worksheets/sheet3.xml",
+    "Independent package reserve differences are below tolerance",
+    "Five insurers independently verified at three valuations",
+    "Mack errors are present for all valuations",
+    "Excel triangle review contains live calculation formulas"
+  ],
+  "workbooks": [
+    {
+      "file": "reserve_review.xlsx",
+      "formula_count": 76
+    }
+  ],
+  "artifacts": {
+    "accident_year_estimates.csv": {
+      "bytes": 19614,
+      "sha256": "2dab4766e4a6c57b118e114a15556a9036742bad9381cb8958e1a03cc3c0648f"
+    },
+    "analysis.md": {
+      "bytes": 2470,
+      "sha256": "f3e3e8173697eac6cfd62742d26f694ceb18ddf5f18d6d11bb6c158e06cfceae"
+    },
+    "analysis.pdf": {
+      "bytes": 3475,
+      "sha256": "5cb88d22d26060144269f35f1babb198f17032e26410407fecead841c1515187"
+    },
+    "backtests.csv": {
+      "bytes": 16250,
+      "sha256": "fcb501e6826c04399e445e920772f6c32f57899de3a9439f6bac7398cd8fd4d2"
+    },
+    "backtests.html": {
+      "bytes": 4862020,
+      "sha256": "1536f503edf5f6133559fc078ab0d481e785b56e8e1f16ca7e5ea62ba8e9bf43"
+    },
+    "build_manifest.json": {
+      "bytes": 761,
+      "sha256": "57e62be9ee914e4255e14ed4379284f52bb8c2f1fc7e05478552dd34db45b483"
+    },
+    "metrics.json": {
+      "bytes": 492,
+      "sha256": "9c68a094d69913515baa270e67475321dbea0240f196de7ba69b9217c59f8fce"
+    },
+    "package_verification.csv": {
+      "bytes": 2137,
+      "sha256": "1d0332b1b09396f7b32cbfe4ed029ed22e1bb549b6b05b87e0668e9df32e10a4"
+    },
+    "reserve_movement.csv": {
+      "bytes": 1790,
+      "sha256": "04e343fe7aca25fa1dc7f3cfdc7f23d84dc74dc14f74d1e9cbf5a24ac28d5378"
+    },
+    "reserve_movement.html": {
+      "bytes": 4861437,
+      "sha256": "afc76318f20c924c6f94ada0b8d5c49e45e051243fbdcc8cacac313d42e11c29"
+    },
+    "reserve_review.xlsx": {
+      "bytes": 9345,
+      "sha256": "6152c4f17c3fe11e8399a9a56a8f032757995a896c81cb43bb42079c70800334"
+    },
+    "sensitivity.csv": {
+      "bytes": 2306,
+      "sha256": "c090f3d1fea7a84a3d43255deed94446bcb2696c2db744d482b178c4fc362c6f"
+    },
+    "source_manifest.json": {
+      "bytes": 411,
+      "sha256": "0f2fc10b8b021dcb216a95d778baa1ca67a5adb3ba80ac1cc10221bc0c09ac9e"
+    },
+    "valuation_summary.csv": {
+      "bytes": 1575,
+      "sha256": "9556a2716a01ee7d0dca76707e0a145691ddd1db4fb4710f252ab8967f6ac760"
+    }
+  }
+}

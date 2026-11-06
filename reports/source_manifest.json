@@ -1,0 +1,10 @@
+{
+  "ppauto.csv.provenance.json": {
+    "url": "https://www.casact.org/sites/default/files/2026-03/ppauto_pos98-07%20%281%29.csv",
+    "observed_at_utc": "2026-11-06T09:24:29.948260+00:00",
+    "retrieved_at_utc": null,
+    "sha256": "6e838f1e44c67218133ef1c8e28ca2b34b9f21ba4ee94de408c412638f798d96",
+    "bytes": 1026762,
+    "note": "Existing local download; original retrieval timestamp not captured"
+  }
+}
